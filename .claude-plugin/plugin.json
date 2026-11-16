@@ -1,0 +1,13 @@
+{
+  "name": "subimage",
+  "version": "0.1.0",
+  "description": "Generate and edit images in Claude Code with your Google AI or ChatGPT subscription (Antigravity CLI or Codex CLI). Pick a primary service, auto-fallback to the other. No API key.",
+  "author": {
+    "name": "sombass002",
+    "url": "https://github.com/sombass002"
+  },
+  "homepage": "https://github.com/sombass002/subimage",
+  "repository": "https://github.com/sombass002/subimage",
+  "license": "MIT",
+  "keywords": ["image", "image-generation", "gemini", "nano-banana", "antigravity", "codex", "chatgpt"]
+}

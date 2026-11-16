@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "subimage",
+  "description": "Image generation for Claude Code on your existing subscription.",
+  "owner": {
+    "name": "sombass002",
+    "url": "https://github.com/sombass002"
+  },
+  "plugins": [
+    {
+      "name": "subimage",
+      "description": "Generate and edit images with your Google AI or ChatGPT subscription. No API key.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
